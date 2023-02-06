@@ -2,4 +2,4 @@
 An Iris Dimension Engine Dimension with some colored squares, for testing purposes.
 
 # Setup
-With [Iris](github.com/volmitsoftware/iris/) ([docs](docs.volmit.com/iris))
+With [Iris](https://github.com/volmitsoftware/iris/) ([docs](https://docs.volmit.com/iris))
