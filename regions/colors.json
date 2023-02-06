@@ -1,0 +1,36 @@
+{
+    "name": "Colors",
+    "landBiomes": [
+        "all-colors/white",
+        "all-colors/orange",
+        "all-colors/yellow",
+        "all-colors/lime",
+        "all-colors/pink",
+        "all-colors/yellow",
+        "all-colors/purple",
+        "all-colors/blue",
+        "all-colors/red"
+    ],
+    "seaBiomes": [
+        "all-colors/white",
+        "all-colors/orange",
+        "all-colors/yellow",
+        "all-colors/lime",
+        "all-colors/pink",
+        "all-colors/yellow",
+        "all-colors/purple",
+        "all-colors/blue",
+        "all-colors/red"
+    ],
+    "shoreBiomes": [
+        "all-colors/white",
+        "all-colors/orange",
+        "all-colors/yellow",
+        "all-colors/lime",
+        "all-colors/pink",
+        "all-colors/yellow",
+        "all-colors/purple",
+        "all-colors/blue",
+        "all-colors/red"
+    ]
+}

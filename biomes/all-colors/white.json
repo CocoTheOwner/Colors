@@ -1,0 +1,21 @@
+{
+    "name": "White",
+    "derivative": "THE_VOID",
+    "vanillaDerivative": "THE_VOID",
+    "layers": [
+        {
+            "palette": [
+                {
+                    "block": "minecraft:white_concrete"
+                }
+            ]
+        }
+    ],
+    "generators": [
+        {
+            "generator": "empty",
+            "min": 0,
+            "max": 0
+        }
+    ]
+}

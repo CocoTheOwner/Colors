@@ -1,7 +1,43 @@
 {
     "name": "Colors",
-    "fluidHeight": 0,
-    "regions": ["empty"],
+    "fluidHeight": 64,
+    "regions": [
+        "colors"
+    ],
+    "landBiomeStyle": {
+        "imageMap": {
+            "image": "squares",
+            "channel": "RED",
+            "coordinateScale": 5,
+            "interpolationMethod": "NONE",
+            "tiled": false
+        }
+    },
     "bedrock": false,
-    "rockPalette": {"palette": [{"block": "minecraft:air"}]}
+    "rockPalette": {"palette": [{"block": "minecraft:air"}]},
+    "landChance": 1,
+    "regionStyle": {
+        "style": "FLAT"
+    },
+    "continentalStyle": {
+        "style": "FLAT"
+    },
+    "shoreBiomeStyle": {
+        "imageMap": {
+            "image": "squares",
+            "channel": "RED",
+            "coordinateScale": 5,
+            "interpolationMethod": "NONE",
+            "tiled": false
+        }
+    },
+    "seaBiomeStyle": {
+        "imageMap": {
+            "image": "squares",
+            "channel": "RED",
+            "coordinateScale": 5,
+            "interpolationMethod": "NONE",
+            "tiled": true
+        }
+    }
 }

@@ -1,0 +1,21 @@
+{
+    "name": "Red",
+    "derivative": "THE_VOID",
+    "vanillaDerivative": "THE_VOID",
+    "layers": [
+        {
+            "palette": [
+                {
+                    "block": "minecraft:red_concrete"
+                }
+            ]
+        }
+    ],
+    "generators": [
+        {
+            "generator": "empty",
+            "min": 0,
+            "max": 0
+        }
+    ]
+}

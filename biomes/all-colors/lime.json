@@ -1,12 +1,12 @@
 {
-    "name": "Empty",
+    "name": "Lime",
     "derivative": "THE_VOID",
     "vanillaDerivative": "THE_VOID",
     "layers": [
         {
             "palette": [
                 {
-                    "block": "air"
+                    "block": "minecraft:lime_concrete"
                 }
             ]
         }

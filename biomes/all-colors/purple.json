@@ -1,0 +1,21 @@
+{
+    "name": "Purple",
+    "derivative": "THE_VOID",
+    "vanillaDerivative": "THE_VOID",
+    "layers": [
+        {
+            "palette": [
+                {
+                    "block": "minecraft:purple_concrete"
+                }
+            ]
+        }
+    ],
+    "generators": [
+        {
+            "generator": "empty",
+            "min": 0,
+            "max": 0
+        }
+    ]
+}
