@@ -1,0 +1,7 @@
+{
+    "name": "Colors",
+    "fluidHeight": 0,
+    "regions": ["empty"],
+    "bedrock": false,
+    "rockPalette": {"palette": [{"block": "minecraft:air"}]}
+}
